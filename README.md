@@ -123,7 +123,4 @@ Simple UI.  Potent function.  *Elegance* in devastation.
 
 **Disclaimer:**
 
-**This tool is provided for educational and testing purposes only. Misusing it to send unsolicited spam or engage in harmful activities is unethical and may violate Telegram's Terms of Service, potentially leading to account suspensions or other consequences. Use at your own risk. The creator is not responsible for any misuse or damage caused by this tool.**💥💥💥💥
-content_copy
-download
-Use code with caution.
+**This tool is provided for educational and testing purposes only. Misusing it to send unsolicited spam or engage in harmful activities is unethical and may violate Telegram's Terms of Service, potentially leading to account suspensions or other consequences. Use at your own risk. The creator is not responsible for any misuse or damage caused by this tool.**
