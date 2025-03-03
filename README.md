@@ -105,6 +105,19 @@ Once the application starts, you will see the following UI elements:
 *   Telegram has rate limits to prevent spam. If you send messages too quickly, you might encounter "Flood Wait" errors. The script handles these errors by pausing automatically, but excessive flooding can still lead to temporary or permanent account restrictions.
 *   Use the "Delay" input and "Turbo" mode responsibly to manage sending speed.
 
+## Previews
+
+Simple UI.  Potent function.  *Elegance* in devastation.
+
+![Preview 1](previews/preview1.png)
+
+*UI Main Screen. Primed for Operation.*
+
+![Preview 2](previews/preview2.png)
+
+*Message Flood Engaged. Witness the cascade.*
+
+
 **Disclaimer:**
 
 **This tool is provided for educational and testing purposes only. Misusing it to send unsolicited spam or engage in harmful activities is unethical and may violate Telegram's Terms of Service, potentially leading to account suspensions or other consequences. Use at your own risk. The creator is not responsible for any misuse or damage caused by this tool.**
