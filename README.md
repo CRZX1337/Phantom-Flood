@@ -81,6 +81,10 @@ Once the application starts, you will see the following UI elements:
 *   **Event Log**: Displays real-time logs of the application's activities, including connection status, authentication, message sending, and errors.
 *   **Footer**: Displays the application's subtitle.
 
+**Theming:**
+
+Personalize your interface. Access theme selection via the Textual Menu (`Ctrl+P` or `Cmd+P` on Mac). Choose a visual *style* for optimal...  operational viewing. Default is functional. Alternatives...  for *preference*.
+
 **Usage Steps:**
 
 1.  **Start the application:** Run `python main.py`.
@@ -117,7 +121,9 @@ Simple UI.  Potent function.  *Elegance* in devastation.
 
 *Message Flood Engaged. Witness the cascade.*
 
-
 **Disclaimer:**
 
-**This tool is provided for educational and testing purposes only. Misusing it to send unsolicited spam or engage in harmful activities is unethical and may violate Telegram's Terms of Service, potentially leading to account suspensions or other consequences. Use at your own risk. The creator is not responsible for any misuse or damage caused by this tool.**
+**This tool is provided for educational and testing purposes only. Misusing it to send unsolicited spam or engage in harmful activities is unethical and may violate Telegram's Terms of Service, potentially leading to account suspensions or other consequences. Use at your own risk. The creator is not responsible for any misuse or damage caused by this tool.**💥💥💥💥
+content_copy
+download
+Use code with caution.
